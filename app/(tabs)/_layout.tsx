@@ -58,7 +58,7 @@ const _layourt = () => {
                     <TabIcon 
                         focused={focused} 
                         icon={icons.home} 
-                        title='Home' />
+                        title='My Home' />
                 )}}
         />
         <Tabs.Screen 
